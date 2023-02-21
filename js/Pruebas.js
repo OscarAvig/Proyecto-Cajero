@@ -1,25 +1,25 @@
 //Ciclo While
 
-let index = 0;
-while (index <=8){
-    index ++   
-}
+// let index = 0;
+// while (index <=8){
+//     index ++   
+// }
 
-console.log('Me ejecuto ultimo')
+// console.log('Me ejecuto ultimo')
 
 //
 
-let index = 0
+// let index = 0
 
-while (index <= 100) {
-  if(index == 50){
-    console.log('felicidades eres el ganador');
-  }
-  else{
-    console.log(index);
-  }
-  index++
-}
+// while (index <= 100) {
+//   if(index == 50){
+//     console.log('felicidades eres el ganador');
+//   }
+//   else{
+//     console.log(index);
+//   }
+//   index++
+// }
 
 //ciclo Do while
 
@@ -39,7 +39,7 @@ for(let index = 0; index <=10; index++){
 
 }
 
-😄🌵🍤💀
+// 😄🌵🍤💀
 
 const myArr = ['😄', '🌵', '🍤', '💀', '👹']
 
